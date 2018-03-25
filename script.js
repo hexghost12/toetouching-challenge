@@ -1,5 +1,5 @@
-var START = new Date('Mar 23, 2018'); // Inclusive
-var END = new Date('Apr 22, 2018'); // Exclusive
+var START = new Date('Mar 24, 2018'); // Inclusive
+var END = new Date('Apr 23, 2018'); // Exclusive
 var MS_IN_DAY = 24 * 60 * 60 * 1000;
 var DELAY = 5 * 60 * 60 * 1000; // Delay time to show yesterday's results after midnight until 5AM
 var TODAY = new Date(Date.now() - DELAY);
