@@ -8,8 +8,7 @@ var TOTAL_DAYS = Math.round((END.getTime() - START.getTime()) / MS_IN_DAY);
 var PUSHUPS_DAILY = 1;
 var TOTAL_PUSHUPS = PUSHUPS_DAILY * TOTAL_DAYS;
 
-//var dataPromise = httpGET('https://rawgit.com/aslushnikov/toetouching-challenge/master/toetouching.js');
-var dataPromise = httpGET('http://localhost:8888/toetouching.js');
+var dataPromise = httpGET('https://rawgit.com/aslushnikov/toetouching-challenge/master/toetouching.js');
 
 window.addEventListener('DOMContentLoaded', function() {
   dataPromise.then(renderPushups);
