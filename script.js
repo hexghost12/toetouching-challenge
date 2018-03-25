@@ -19,26 +19,34 @@ function renderPushups(pushups) {
   var contestants = [
     {
       name: 'andrey',
-      total: 0,
-      today: 0,
       el: document.querySelector('.contestant.a'),
     },
     {
       name: 'sergey',
-      total: 0,
-      today: 0,
       el: document.querySelector('.contestant.s'),
     },
     {
       name: 'timur',
-      total: 0,
-      today: 0,
       el: document.querySelector('.contestant.t'),
     },
+    {
+      name: 'ira',
+      el: document.querySelector('.contestant.i'),
+    },
+    {
+      name: 'sergeyv',
+      el: document.querySelector('.contestant.sv'),
+    },
   ];
+
   var progress = eval(pushups);
   for (var entry of progress)
     entry.date = new Date(entry.date);
+
+  for (var contestant of contestants) {
+    contestant.total = 0;
+    contestant.today = 0;
+  }
 
   for (var entry of progress) {
     for (var contestant of contestants) {
