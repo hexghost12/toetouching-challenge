@@ -1,5 +1,13 @@
 ([
   {
+    date: 'Apr 12, 2018',
+    andrey:  0,
+    sergey:  11,
+    timur:   0,
+    ira:     10,
+    sergeyv: 0
+  }, 
+  {
     date: 'Apr 4, 2018',
     andrey:  1,
     sergey:  0,
