@@ -8,6 +8,69 @@
     sergeyv: 0
   }, 
   {
+    date: 'Apr 11, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+
+  {
+    date: 'Apr 10, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+
+  {
+    date: 'Apr 9, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+
+  {
+    date: 'Apr 8, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+
+  {
+    date: 'Apr 7, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+
+  {
+    date: 'Apr 6, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+
+  {
+    date: 'Apr 5, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+
+  {
     date: 'Apr 4, 2018',
     andrey:  1,
     sergey:  0,
