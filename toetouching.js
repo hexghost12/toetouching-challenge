@@ -2,10 +2,10 @@
   {
     date: 'Apr 12, 2018',
     andrey:  0,
-    sergey:  11,
+    sergey:  0,
     timur:   0,
     ira:     10,
-    sergeyv: 0
+    sergeyv: 11
   }, 
   {
     date: 'Apr 11, 2018',
