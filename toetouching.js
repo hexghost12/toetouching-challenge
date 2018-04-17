@@ -1,5 +1,40 @@
 ([
   {
+    date: 'Apr 16, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+
+  {
+    date: 'Apr 15, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+
+  {
+    date: 'Apr 14, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+
+  {
+    date: 'Apr 13, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+  {
     date: 'Apr 12, 2018',
     andrey:  0,
     sergey:  0,
