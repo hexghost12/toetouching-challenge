@@ -1,5 +1,58 @@
 ([
   {
+    date: 'Apr 22, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+
+  {
+    date: 'Apr 21, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+
+  {
+    date: 'Apr 20, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+
+  {
+    date: 'Apr 19, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+
+  {
+    date: 'Apr 18, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+
+  {
+    date: 'Apr 17, 2018',
+    andrey:  1,
+    sergey:  0,
+    timur:   0,
+    ira:     0,
+    sergeyv: 0
+  }, 
+  {
     date: 'Apr 16, 2018',
     andrey:  1,
     sergey:  0,
